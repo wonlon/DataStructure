@@ -1,0 +1,14 @@
+{
+  "name": "DataStructure/php",
+  "authors": [
+    {
+      "name": "wanglong",
+      "email": "wanglong@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DataStructure\\": "src/"
+    }
+  }
+}
